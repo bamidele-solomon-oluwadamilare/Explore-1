@@ -1,0 +1,39 @@
+body {
+     background-color: hsl(212, 45%, 89%);
+     padding: 30px;
+     width: 400px;
+    }
+    
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  
+    .display-content{
+        background-color:hsl(0, 0%, 100%);
+        padding: 8px;
+        height: 600px;
+        border-width: 100rem;
+        border-radius:3.9%
+    }
+
+
+    img{
+        width:97%;
+        margin:3px;
+        padding:4px;
+        border-radius:3.9%
+
+    }
+    .heading{
+        font-size: 32px;
+        text-align: center;
+        color:hsl(218, 44%, 22%);
+        font-weight: 400px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .para{
+        font-size: 15px;
+        text-align: center;
+        color:hsl(220, 15%, 55%);
+        font-weight: 700px;
+    }
